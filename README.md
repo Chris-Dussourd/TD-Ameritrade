@@ -14,7 +14,7 @@ Steps for Authenticating your App: Go to https://developer.tdameritrade.com/,
 
 4. Run the Authentication.py file
     - A browser will open and login to your TD site. It will ask for two factor authentication. 
-    - Once you two factor authenticate, enter 'Done' into the python terminal
+    - Once you complete two factor authenticate, enter 'Done' into the python terminal
     - The refresh token will be printed into the terminal. Copy it to your auth_info file.
 
 TDAmeritrade_API contains the following functions:
